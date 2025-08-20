@@ -7,3 +7,4 @@ seaborn>=0.13.0
 xgboost>=2.0.0
 scipy>=1.11.0
 jupyter>=1.0.0
+plotly>=1.0.0
