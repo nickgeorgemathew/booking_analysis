@@ -24,8 +24,8 @@ How to Run
 4. Open notebooks/02_model.ipynb to train and evaluate models
 5. Outputs will be saved to figures/ and reports/
 
-Key Results (to update after Day 2)
-- F1: …
+Key Results 
+- F1:
 - Accuracy: …
 - Confusion Matrix: (insert image)
 - Top 5 Features: …
