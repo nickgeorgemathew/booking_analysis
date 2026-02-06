@@ -14,26 +14,20 @@ Project Structure
 - data/: raw, processed, external
 - notebooks/: 01_eda.ipynb, 02_model.ipynb
 - src/: data (loading), features (engineering), models (training/eval), utils (helpers)
-- figures/: exported plots
-- reports/: final visuals or markdown exports
+
 
 How to Run
 1. Create and activate virtual environment
 2. pip install -r requirements.txt
 3. Open notebooks/01_eda.ipynb for EDA and feature creation
 4. Open notebooks/02_model.ipynb to train and evaluate models
-5. Outputs will be saved to figures/ and reports/
+
 
 Key Results 
-- F1:
-- Accuracy: …
-- Confusion Matrix: (insert image)
-- Top 5 Features: …
+- Best model (Random Forest + SMOTE):  
+  - F1 (completed class) ≈ 0.41  
+  - Recall (completed class) ≈ 0.58  
+  - ROC–AUC ≈ 0.77
 
-Repo Images
-- Insert 1–2 key plots (EDA rate plot, feature importance)
 
-Next Steps
-- A/B test timing/urgency nudges
-- SHAP for local explanations
-- Real-time scoring pipeline
+
