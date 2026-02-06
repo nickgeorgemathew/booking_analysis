@@ -28,6 +28,7 @@ Key Results
   - F1 (completed class) ≈ 0.41  
   - Recall (completed class) ≈ 0.58  
   - ROC–AUC ≈ 0.77
+  - View insights table for more info
 
 
 
